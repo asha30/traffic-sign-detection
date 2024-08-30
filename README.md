@@ -26,8 +26,8 @@ I used a compiler GPU provided in google colab while running this project.
 Pandas  
 Numpy  
 Matplotlib  
-sci-kit learn 
-Tensorflow                                                                                                                                                                                                                  
+sci-kit learn                                                                                                                                                                                                               
+Tensorflow                                                                                                                                                                                                        
 OpenCV                                                                                                                                                                                                                      
 Operating System(OS)
 ## Programmes  
