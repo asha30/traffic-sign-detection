@@ -1,14 +1,14 @@
 # Traffic_Sign_Detection
 Developed a model for traffic sign detection using various signs on road which helps for self driving cars to follow driving rules and provide a safe journey.This model is trained using nearly 100,000 images having 43 different classes.
 ### Features
-Import  libraries  
-Import dataset
-Preprocess Data
-Visualize Data
-Split Data in to X and Y
-Split Data into Train and Test sets
-Build a model  
-Prediction of test dataset
+Import  libraries                                                                                                                                                                                                           
+Import Dataset                                                                                                                                                                                                              
+Preprocess Data                                                                                                                                                                                                             
+Visualize Data                                                                                                                                                                                                              
+Split Data in to X and Y                                                                                                                                                                                                    
+Split Data into Train and Test sets                                                                                                                                                                                         
+Build a model                                                                                                                                                                                                               
+Prediction of test dataset                                                                                                                                                                                                  
 Predict and Visualize test data
 ### Applications
 * Dynamic Map Updates: Integrating traffic sign detection models with GPS systems allows for dynamic updating of maps, incorporating real-time traffic sign information, which can guide drivers more accurately.
