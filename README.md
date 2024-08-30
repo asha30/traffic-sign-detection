@@ -19,7 +19,7 @@ I used a compiler GPU provided in google colab while running this project.
 ## Results  
 ### This model acheived training accuracy of 0.9845 and validation accuracy of 0.9962 .
 ## Prediction
-! [Prediction](https://github.com/tejatanush/Traffic_Sign_Detection/blob/main/Traffic_sign_prediction.png)
+![Prediction](https://github.com/tejatanush/Traffic_Sign_Detection/blob/main/Traffic_sign_prediction.png)
 ## References  
 [Traffic sign dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 ## Requirements  
