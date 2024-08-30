@@ -25,8 +25,8 @@ Pandas
 Numpy  
 Matplotlib  
 sci-kit learn 
-Tensorflow
-OpenCV
+Tensorflow                                                                                                                                                                                                                  
+OpenCV                                                                                                                                                                                                                      
 Operating System(OS)
 ## Programmes  
 Python  
