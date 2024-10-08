@@ -21,7 +21,7 @@ I used a compiler GPU provided in google colab while running this project.
 ## Prediction
 ![Prediction](https://github.com/tejatanush/Traffic_Sign_Detection/blob/main/Traffic_sign_prediction.png)
 ## References  
-[Traffic sign dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+[Face emotion detection Dataset](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
 ## Requirements  
 Pandas  
 Numpy  
