@@ -32,5 +32,4 @@ OpenCV
 Operating System(OS)
 ## Programmes  
 Python  
-## Owner  
-[Teja Tanush](https://github.com/tejatanush) 
+
